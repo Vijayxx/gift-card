@@ -120,6 +120,7 @@ body::before {
 }
 #footer {
     font-style: italic;
+    font-size: 25;
     margin: 40px auto 20px;
     padding: 10px;
     color: #4a4a4a;
