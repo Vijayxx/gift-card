@@ -118,3 +118,21 @@ body::before {
     pointer-events: none; /* Ensure it doesn't interfere with clicks */
     z-index: -1; /* Send it to the background */
 }
+#footer {
+    font-style: italic;
+    margin: 40px auto 20px;
+    padding: 10px;
+    color: #4a4a4a;
+    background-color: #75c9b7;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+#footer p {
+    margin: 0;
+    font-size: 18px;
+    color: #ffffff;
+    text-shadow: 0 0 2px #4a4a4a;
+}
