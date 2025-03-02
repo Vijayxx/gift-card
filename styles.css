@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: 'Happy Monkey', cursive;
+    font-family: "Emilys Candy", serif;
     background: linear-gradient(#a8e6cf, #d4f1c5);
     color: #4a4a4a;
     position: relative; /* Add this to make the ::before element relative to the body */
